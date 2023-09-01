@@ -14,4 +14,6 @@ Oi! Meu nome é Talita, sou enfermeira auditora. Atualmente estou aprendendo sob
 
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Talita-T&show_icons=true&icon_color=30A3DC&theme=synthwave&hide_title=true&hide=stars)
+
+![Talita-T's Stats](https://github-readme-stats.vercel.app/api?username=Talita-T&theme=synthwave&show_icons=true&icon_color=30A3DC&hide_border=true&count_private=true&hide_title=true&hide=stars)
+![Talita-T's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Talita-T&theme=synthwave&hide_border=true&")
