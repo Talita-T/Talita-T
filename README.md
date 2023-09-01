@@ -1,16 +1,19 @@
-### Hi there 👋
+# Sobre mim
+Oi! Meu nome é Talita, sou enfermeira auditora. Atualmente estou aprendendo sobre Análise de Dados, através de bootcamps e cursos, pois pretendo seguir essa carreira.
 
-<!--
-**Talita-T/Talita-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://cdn.dribbble.com/users/1651609/screenshots/14770259/media/e6a5719823c86b42bfd49333133280b8.gif">
 
-Here are some ideas to get you started:
+## Conecte-se comigo
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=823085)](mailto:talitag.gencio@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=823085)](https://www.instagram.com/tguerra_/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Aprendendo
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-000?style=for-the-badge&logo=powerbi&logoColor=yellow)
+
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Talita-T&show_icons=true&icon_color=30A3DC&theme=synthwave&hide_title=true&hide=stars)
